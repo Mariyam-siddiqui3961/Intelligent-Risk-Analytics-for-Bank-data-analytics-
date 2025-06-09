@@ -33,4 +33,4 @@ Clone the repo: git clone https://github.com/your-username/Intelligent-Risk-Anal
 
 Install dependencies: pip install -r requirements.txt
 
-Run the Jupyter Notebook: jupyter notebook
+Run the Jupyter Notebook: jupyter notebook.
